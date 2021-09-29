@@ -1,6 +1,8 @@
 body {
     background: #D2D2C1 url('img/fundo.png');
     font: 16px  Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
 }
 
 #principal {
